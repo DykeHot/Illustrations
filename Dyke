@@ -1,0 +1,6 @@
+def number_site(hub):
+  if hub >= 20:
+    print("There's a big number")
+  else:
+    print("There's a small number")
+
